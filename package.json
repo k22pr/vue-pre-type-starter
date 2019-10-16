@@ -18,7 +18,8 @@
     "vue-route-generator": "^0.4.1",
     "vue-router": "^3.0.3",
     "vue-router-layout": "^0.1.5",
-    "vuex": "^3.0.1"
+    "vuex": "^3.0.1",
+    "vuex-module-decorators": "^0.10.1"
   },
   "devDependencies": {
     "@types/chai": "^4.1.0",
